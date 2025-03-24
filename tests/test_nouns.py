@@ -1,5 +1,6 @@
 import pytest
-from src.main import Noun
+
+from main import Noun
 
 
 @pytest.fixture
