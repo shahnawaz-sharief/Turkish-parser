@@ -1,0 +1,17 @@
+
+
+#How should I construct a dictionary for turkish?
+
+Word:
+    part_of_speech: 
+    base:
+    phonemic:
+    description: 
+
+
+Noun:
+    word:
+        base:
+        description:
+        phonemic:
+
