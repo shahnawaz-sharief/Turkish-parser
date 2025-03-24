@@ -1,0 +1,11 @@
+[lint]
+select = ["ALL"]
+ignore = ["EM102", "TRY003", "D105", "RUF001", "EM101"]
+fixable = ["ALL"]
+dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+
+[format]
+quote-style = "double"
+docstring-code-line-length = "dynamic"
+skip-magic-trailing-comma = false
+line-ending = "auto"
